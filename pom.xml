@@ -26,7 +26,7 @@
             <!-- 18.0 for support of JDK 1.6 -->
             <!-- 29.0-android for support of JDK 1.7 -->
             <!-- 29.0-jre for support of JDK 1.8 -->
-            <version>[18.0],[29.0-android],[29.0-jre]</version>
+            <version>29.0-jre</version>
         </dependency>
         <dependency>
             <groupId>sb_httpclient</groupId>
